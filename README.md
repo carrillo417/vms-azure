@@ -1,6 +1,7 @@
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/adb8d402-7544-48ee-a0db-9f87e164d162)
+  
+ <img src="https://i.imgur.com/vlSVP3D.png" height="25%" width="25%" alt="Microsoft Azure Logo"/>
 
 </p>
 
