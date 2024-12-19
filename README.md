@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://imgur.com/a/kzw7OgH.png" height="80%" width "80%" alt="Microsoft Azure Logo"/>
+  ![image](https://github.com/user-attachments/assets/adb8d402-7544-48ee-a0db-9f87e164d162)
+
 </p>
 
 <h1>Creating Virtual Machines in Azure</h1>
