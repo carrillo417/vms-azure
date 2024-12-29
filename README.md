@@ -32,7 +32,7 @@ This tutorial outlines how to create a Windows 10 Virtual Machine as well as a L
 <img src="https://i.imgur.com/NiL5dOJ.png" height="80%" width="80%" alt=""/>
 
 - Click on Create and name your resource group (Remember the region selected as this is important for later on)
-<img src="https://i.imgur.com/DNw9Fkd.png" height="90%" width="90%" alt=""/> 
+<img src="https://i.imgur.com/DNw9Fkd.png" height="80%" width="80%" alt=""/> 
 <br />
 <img src="https://i.imgur.com/IoYcFgV.png" height="80%" width="80%" alt=""/>
 
